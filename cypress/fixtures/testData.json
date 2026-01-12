@@ -1,8 +1,8 @@
 {
   "username": "testuser",
   "password": "pass123",
-  "botName":"BotByAshish",
-  "botNames": ["BotByAshish", "BotByAshish2", "BotByAshish3", "BotByAshish4", "BotByAshish5"],
+  "botName":"BotByAmir",
+  "botNames": ["BotByAmir", "BotByAmir2", "BotByAmir3", "BotByAmir4", "BotByAmir5"],
   "bot_message": "Sample Bot msg",
   "learningInstanceName": "MyLearningInstance",
   "learningInstance": {
@@ -11,5 +11,5 @@
     "fieldName": "TestField invoice",
     "fieldLabel": "Test Field Label invoice "
   },
-  "author": "Ashish Soni"
+  "author": "Amir choudhary"
 }
