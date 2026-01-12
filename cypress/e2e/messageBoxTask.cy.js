@@ -1,6 +1,6 @@
 /**
  * Author: Amir choudhary
- * Project: Automation Anywhere SDET Assignment - Use Case 1
+ * Project: Automation Anywhere SDET Assignment 
  */
 
 import LoginPage from "../pages/loginPage";
