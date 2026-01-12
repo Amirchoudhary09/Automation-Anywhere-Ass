@@ -35,8 +35,7 @@ The project demonstrates a **Cypress-based POM framework** with reusable compone
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/ashishxsoni/Automation-Anywhere-Assignment
-cd automation-anywhere-sdet-assignment
+git clone https://github.com/amirchoudhary09/Automation-Anywhere-Ass
 
 # 2. Install dependencies
 npm install
@@ -47,4 +46,4 @@ npx cypress open
 ```
 ---
 ---
-⚠️ This project is © 2025 Ashish Soni. Protected under the MIT License. Please retain all author credits if you reuse or modify this work.
+⚠️ This project is © 2026 amir choudhary. Protected under the MIT License. Please retain all author credits if you reuse or modify this work.
