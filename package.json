@@ -4,11 +4,11 @@
   "description": "This repository contains the completed assignment for the SDET role at **Automation Anywhere**.  \r The project demonstrates a **Cypress-based POM framework** with reusable components, assertions, and Mocha reporting for the following use cases:",
   "homepage": "https://github.com/Amirchoudhary09/Automation-Anywhere-Assignment#readme",
   "bugs": {
-    "url": "https://github.com/Amirchoudhary09/Automation-Anywhere-Assignment/issues"
+    "url": "https://github.com/Amirchoudhary09/Automation-Anywhere-Ass/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Amirchoudhary09/Automation-Anywhere-Assignment.git"
+    "url": "git+https://github.com/Amirchoudhary09/Automation-Anywhere-Ass.git"
   },
   "license": "ISC",
   "author": "",
