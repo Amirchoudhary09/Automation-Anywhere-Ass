@@ -1,7 +1,7 @@
 /**
- * Author: Ashish Soni
+ * Author: Amir choudhary
  * Project: Automation Anywhere SDET Assignment
- * GitHub: https://github.com/ashishxsoni/Automation-Anywhere-Assignment
+ * GitHub: https://github.com/Amirchoudhary09/Automation-Anywhere-Assi
  * Copyright (c) 2025. All rights reserved.
  * Any reproduction without proper credit is unethical.
  */
