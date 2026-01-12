@@ -2,8 +2,7 @@
  * Author: Amir choudhary
  * Project: Automation Anywhere SDET Assignment
  * GitHub: https://github.com/Amirchoudhary09/Automation-Anywhere-Assignment
- * Copyright (c) 2025. All rights reserved.
- * Any reproduction without proper credit is unethical.
+ * Copyright (c) 2026. All rights reserved.
  */
 
 // ***********************************************
