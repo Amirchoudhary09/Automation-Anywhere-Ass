@@ -7,16 +7,42 @@ The project demonstrates a **Cypress-based POM framework** with reusable compone
 
 ## 📌 Use Cases
 
-### ✅ Use Case 1 – Create Message Box Task Bot
-- Automates creation of a bot with a Message Box component.
-- Validates bot creation via assertions.
-- Reuses login logic via Page Object Model.
+✅ Use Case 1: Message Box Task Bot (UI Automation)
+Goal: Automate the end-to-end creation and configuration of a Task Bot.
 
-### ✅ Use Case 2 – Create a Learning Instance with User-defined Fields
-- Automates creation of a Learning Instance.
-- Handles iframe-based selectors and modal interactions.
-- Reuses reusable command steps.
+Workflow: Login ➡️ Navigation to Automation ➡️ Task Bot Creation ➡️ Message Box Action Configuration ➡️ Save.
 
+Technical Highlights: * Implements Page Object Model (POM) for clean element selectors and actions.
+
+Validates UI element visibility and proper data entry via assertions.
+
+Assertions: Verified successful bot creation, confirmation messages, and full functional flow.
+
+✅ Use Case 2: Form with Upload Flow (UI Automation)
+Goal: Automate form building with drag-and-drop elements and file upload.
+
+Workflow: Form Creation ➡️ Canvas Interaction (Drag & Drop Textbox & File Upload) ➡️ Right Panel UI Verification ➡️ Document Upload from Shared Folder.
+
+Technical Highlights:
+
+Handles complex Drag and Drop interactions on the canvas.
+
+Automates the File Upload process using Cypress file-handling plugins.
+
+Assertions: UI element functionality, file upload status (Success/Failure), and form submission behavior.
+
+✅ Use Case 3: Learning Instance (API & UI Flow)
+Goal: Validate Learning Instance creation under the AI tab via functional automation.
+
+Workflow: Auth ➡️ AI Tab Navigation ➡️ Learning Instance Creation ➡️ Functional Validation.
+
+API Validation (Technical Scope):
+
+Identified endpoints using Browser Network Tab.
+
+Checks: HTTP Status Codes (201 Created), Response Schema validation, and field-level accuracy (ID, Name, Status).
+
+Ensures functional accuracy between the UI state and backend response.
 ---
 
 ## 🧰 Tech Stack
@@ -46,4 +72,4 @@ npx cypress open
 ```
 ---
 ---
-⚠️ This project is © 2026 amir choudhary. Protected under the MIT License. Please retain all author credits if you reuse or modify this work.
+⚠️ This project is © 2026 amir choudhary. Please retain all author credits if you reuse or modify this work.
